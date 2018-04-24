@@ -1,6 +1,8 @@
 
 public class GitDemoTest {
 
-	System.out.println("This is my GitDemo Test");
+	public static void main(String[] args) {
+		System.out.println("This is my GitDemo Test");
+	}
 	
 }
